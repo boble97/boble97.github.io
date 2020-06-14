@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is "Cheon Jae Han"
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
++ age : 1997.06.13
++ sex : male
++ from : Korea. Gyeongju
++ I am not gay. So If you are a male, don't contact to me(Exclude business calls) :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[boble97@naver.com](mailto:boble97@naver.com)
+
+### Have a nice day everybody!
