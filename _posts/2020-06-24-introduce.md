@@ -12,6 +12,6 @@ title: Introduce myself!
 
 4. 학력 : 2020년 경일대학교 사이버보안 전공 1학년 재학 중
 
-  - 그러나 서울예대 문예창작학과 진학 희망 
+    - 그러나 서울예대 문예창작학과 진학 희망 
   
 ![snau](https://user-images.githubusercontent.com/64255831/85223401-e1866300-b3fd-11ea-9fbb-2971f57abbdc.jpg)
