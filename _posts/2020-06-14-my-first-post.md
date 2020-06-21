@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my github blog!
 ---
 
-# Welcome
+### Welcome
 
 **Hello World** 
 
