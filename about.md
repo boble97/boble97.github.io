@@ -8,7 +8,7 @@ Hello! My name is "Cheon Jae Han"
 
 ### More Information
 
-+ age : 1997.06.13
++ birth : 1997.06.13
 + sex : male
 + from : Korea. Gyeongju
 + I am not gay. So If you are a male, don't contact to me(Exclude business calls) :)
