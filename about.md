@@ -4,17 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is "Cheon Jae Han"
+**안녕하세요!**
 
-### More Information
+이 블로그는 *경일대학교 오픈소프트웨어 실습 기말고사*를 위하여 만들어진 블로그입니다.
 
-+ birth : 1997.06.13
-+ sex : male
-+ from : Korea. Gyeongju
-+ I am not gay. So If you are a male, don't contact to me(Exclude business calls) :)
+저의 간단한 소개 및 여러 포스트를 올릴 계획입니다.
 
-### Contact me
-
-[boble97@naver.com](mailto:boble97@naver.com)
-
-### Have a nice day everybody!
+**감사합니다!**
